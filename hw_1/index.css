@@ -45,6 +45,10 @@ body {
 	gap: 7%;
 	font-family:sans-serif;
 }
+.red {
+	color:red;
+	font-family:sans-serif;
+}
 .quote {
 	display flex:right;
 }
